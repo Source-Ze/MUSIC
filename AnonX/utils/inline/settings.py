@@ -24,7 +24,7 @@ def setting_markup(_):
         ],
         [
             InlineKeyboardButton(
-                text="⌞ѕᴏụʀᴄᴇ ᴀʟᴍᴏʀᴛᴀɢᴇʟ⌝", url=f"https://t.me/AlmortagelTech",
+                text="⌞ѕᴏụʀᴄᴇ ze⌝", url=f"https://t.me/UI_XB",
             ),
             InlineKeyboardButton(
                 text=_["CLOSE_BUTTON"], callback_data="close"
